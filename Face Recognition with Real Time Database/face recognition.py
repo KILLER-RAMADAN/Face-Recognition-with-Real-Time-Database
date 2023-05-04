@@ -16,8 +16,8 @@ import time
 # connect with the database
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://face-attendance-real-tim-a6b68-default-rtdb.firebaseio.com/",
-    'storageBucket':"face-attendance-real-tim-a6b68.appspot.com"
+    'databaseURL':"database url",
+    'storageBucket':"storage url"
     
     
 })
