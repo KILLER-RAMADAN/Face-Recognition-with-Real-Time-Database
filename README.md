@@ -1,5 +1,3 @@
-# IGFT
-![Screenshot 2023-05-01 110154](https://user-images.githubusercontent.com/90656786/236575250-be843dc8-98f3-4961-8211-acf422272041.png)
 
 
 # Face-Recognition-with-Real-Time-Database Made By (IGFT)
